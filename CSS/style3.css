@@ -1,0 +1,89 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.nilanjan-chowdhury {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: absolute;
+  left: 121px;
+  top: 67px;
+}
+.home {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 953px;
+  top: 73px;
+}
+.about {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1073px;
+  top: 73px;
+}
+.contact {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 1175px;
+  top: 73px;
+}
+.contact-us {
+  color: #000000;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 164px;
+  top: 193px;
+  width: 277px;
+}
+.nilanjan-chowdhury-university-of-maryland-fall-2025 {
+  color: #000000;
+  text-align: center;
+  font-family: "Montserrat-Regular", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 496px;
+  top: 914px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-nilanjan-chowdhury-nilch-30-umd-edu-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 168px;
+  top: 339px;
+  width: 1166px;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-nilanjan-chowdhury-nilch-30-umd-edu-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span {
+  font-family: "Montserrat-Regular", sans-serif;
+}
+.reach-out-to-the-course-team-for-support-or-inquiries-nilanjan-chowdhury-nilch-30-umd-edu-professor-contact-paul-t-shapiro-pshapiro-umd-edu-ta-contact-abhi-gupta-agupta-09-umd-edu-samiha-meah-smeah-umd-edu-zam-mozumder-zam-umd-edu-span2 {
+  font-family: "Montserrat-Bold", sans-serif;
+  font-weight: 700;
+}
